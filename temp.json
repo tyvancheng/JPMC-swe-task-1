@@ -1,0 +1,28 @@
+[
+    {
+        "id": null,
+        "stock": "ABC",
+        "timestamp": "2019-02-10 10:07:43.237974",
+        "top_bid": {
+            "price": 118.13,
+            "size": 145
+        },
+        "top_ask": {
+            "price": 116.63,
+            "size": 31
+        }
+    },
+    {
+        "id": null,
+        "stock": "DEF",
+        "timestamp": "2019-02-10 10:07:43.237974",
+        "top_bid": {
+            "price": 115.14,
+            "size": 12
+        },
+        "top_ask": {
+            "price": 117.87,
+            "size": 3
+        }
+    }
+]

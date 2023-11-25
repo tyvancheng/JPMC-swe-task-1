@@ -31,6 +31,9 @@ from datetime import timedelta, datetime
 from random import normalvariate, random
 from socketserver import ThreadingMixIn
 
+# import dateutil.parser
+import sys
+sys.path.append("/Users/Tyvan/anaconda3/lib/python3.11/site-packages")
 import dateutil.parser
 
 ################################################################################
